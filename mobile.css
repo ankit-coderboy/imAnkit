@@ -1,0 +1,43 @@
+@media (min-width: 0px) and (max-width: 900px) {
+  .col1root2 {
+    height: 550px;
+  }
+
+  .col2root2 {
+    height: 450px;
+  }
+
+  .navRoot {
+    height: 100px;
+  }
+
+  .navRoot1 {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .navRoot1 i{
+    margin-right: 10px;
+  }
+  .navRoot2 {
+    display: flex;
+    justify-content: center;
+  }
+
+
+
+  .footerRoot{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  p{font-size: 12px;}
+
+  span{
+    font-size: 12px;
+  }
+}
